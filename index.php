@@ -425,7 +425,10 @@
 			</div>
 		</div>
 	</footer>
-
+	
+	<?php
+	include("mail-sender.php");
+	?>
 
 	<script src="js/jquery.js"></script>
 	<script src="js/bootstrap.min.js"></script>
