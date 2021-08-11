@@ -1,7 +1,11 @@
 # Equipo-Digital
-Despues de mas de 50 horas de estar haciendo mi primera pagina web, finalmente lo he conseguido. Mi primer pagina.
 
-Este es el codigo de una pagina web.
-Algunas funciones que tiene son:
-Slideshow de imagenes, Banner interactivo, validacion de correo con Php y mas.
+Pagina Web enfocada a un uso Personal o Empresarial. Al mostrar de manera dinamica los servicios que ofrece. Entre las funciones que tiene son:
+- Slideshow de imagenes con Javascript
+- Baner Interactivo
+- Envio de correos desde Formulario Utilizando PHP
 
+Ver Deploy: https://michaelponce.github.io/Equipo-Digital/
+
+
+Made With ☕
